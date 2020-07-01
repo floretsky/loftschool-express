@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 47415918,
+      "email": "test@test.test",
+      "password": "test"
+    },
+    {
+      "id": 66683503,
+      "email": "test1@YES.TEST",
+      "password": "test"
+    },
+    {
+      "id": "57c9b270-eb36-408c-b6ad-8b4271927156",
+      "email": "test2@YES.TEST",
+      "password": "222"
+    },
+    {
+      "id": "0eb2a180-b489-4ba7-ba2e-4cc3cc493ca5",
+      "email": "test4@YES.TEST",
+      "password": "444"
+    }
+  ],
+  "messages": [
+    {
+      "name": "123",
+      "email": "test@test.test",
+      "message": "123123"
+    }
+  ],
+  "skills": [
+    {
+      "name": "age",
+      "number": "23",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "name": "concerts",
+      "number": "2",
+      "text": "Концерта отыграл"
+    },
+    {
+      "name": "cities",
+      "number": "30",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "name": "years",
+      "number": "1",
+      "text": "Год на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./upload/download.jpg",
+      "name": "Chromatica",
+      "price": 911
+    }
+  ]
+}
