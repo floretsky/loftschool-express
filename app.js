@@ -1,9 +1,9 @@
 var express = require('express');
+var app = express();
 const path = require('path');
 const cookieParser = require('cookie-parser');
 const session = require('express-session');
 const flash = require('connect-flash');
-var app = express();
 
 app.use(cookieParser('secret key'));
 app.use(session({ cookie: { maxAge: 3600 * 24 } }));
