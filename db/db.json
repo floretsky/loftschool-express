@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "5d0e14ff-3f15-47b1-a886-eebd0de17e01",
+      "email": "test@test.test",
+      "salt": "8cc6dfae6bb7e6bddedece54c1ac8156"
+    },
+    {
+      "id": "e36edf66-581b-4488-b142-c2d8c04d0ef6",
+      "email": "test2@test.test",
+      "hash": "a27ac451cb84a2c7f8af48f2699408727a6b11dc1e3d0d10516e1c68ea144dd72d4a0855250a5471e84f4828dc1bc0109a6cf95c3d45f4ec7b3d401761f57545ce0a46cf209150e54ac4cc6aa51cf696f0123472a9162e376c20cb2deaf9d912007d99cda9192ae494b83e47bc5e1081417650420d1f7365417f88c8362b4739a5b27292f92981ec3119be7ca8145802e58fb079b5ac35e7f5c42cf2a4ad03a015ee07ccf2f422b4d8e8d93520cbaeb4ab8a94512b89e4d0a9c20e4a9fee717396e32dd54490a455224007c625846c2d420dcb55088cabb9d0097f4883daf0b13c59534203fc6296cbd3d9505be582bdd01fa1ba6825d77311db270608b2c31feb6b0334e34062cc15d233c777435e142f4340f86520397c0d565b0b1806c59db3fadbe8cd918c96743a8c94c553890a4fd87b438b79222d51ee3c6cd3a1c6601754769218b877434f3023bfbf733d3525f2312aa304e2bf3f7fcb30d6f43c86f84bcb0912c4ecc6365d7de6528ecbedd6f39438e38472565ee2ddc8447adf79a9bbfa752167545944d253df58d47bcdb52705416a8e9f59950bcd07280f4f2854903517f81eb1e42811e2754e11c7a5996a30b214cb71b6d50cdd3fc5b60f3e616ac966ff50721badbc91b4ccf9c7442c9a5b5fddbf95fb141549fad13dd19bc17403b7e37e44483b54cc6717894caa2429ca6a5488f1e62a04999d6126679a",
+      "salt": "9e79116640e3eb79dd6a64ca5dd9ced0"
+    },
+    {
+      "id": "f37a886c-920e-403d-9f6a-a2fe2d611afb",
+      "email": "test3@test.test",
+      "hash": "0c68d701de818852b84839fa0eee56d27f6982eaa47aeca77fbedeec700b566c102836d0ae8b7f3f47ba469697dd8b59218329780293d238dc7035b5a8a88ebcdc2239867bcac0f45e9a1c6080fbb09a40c115fafdb4184726360b60b96339714552df141a56eeefc5375dd8ebca2612414c8562dd1a3eacddd323f5da730170e2508df5baf0c1f9b4265b4e1f3536b360caad4a43ead0c033736e54ec467a8fb17b6f97f6a558ffd4b3289e32482847182b5df63e8235748287981dbc3633f4782499b6b509bccdf7955aca7ade1a70560847fc549b91f837a8e6177761931178209cb322d8d91847294b92b7d1dd143327fb82134bb539d882474d84d5abce0217b5af276bf473060c7015ac37c92fb28e2c5c417c41f5bd5e81140c7d44d50a694f9333e632c39830c8e33825d6e0672d3b5d7d4058992b1938eb7c77533d058ae1e1cabf93e1d6ebd9dc4a6a6772bc6286084bd27f78cea6aeefd69bb8d0e4790281f28c28f33f2db90b35d24d47af103a3c6e547c08fe4a92700e3d7262304aa67a560a9c97ddf2b5348d8fee8d5dfa59f4304c8cb790b0959c7f9a1ad1e13895d207aa853f5834d2cb8fe4d893c2b3dfdc304fdd4c5397eb4d913b0f17a19f29444ef2c8c80eb514879a118528d4a818aca3b383bad46ac53516fea245887cb68bf3117b4fed08b9e3dff476fd36d5193f703f430919470f2e32768ecf",
+      "salt": "c8e60d8462fa216a125666c34e436134"
+    }
+  ],
+  "messages": [
+    {
+      "name": "123",
+      "email": "test@test.test",
+      "message": "123123"
+    }
+  ],
+  "skills": [
+    {
+      "name": "age",
+      "number": "23",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "name": "concerts",
+      "number": "2",
+      "text": "Концерта отыграл"
+    },
+    {
+      "name": "cities",
+      "number": "30",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "name": "years",
+      "number": "1",
+      "text": "Год на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./upload/download.jpg",
+      "name": "Chromatica",
+      "price": 911
+    }
+  ]
+}

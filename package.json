@@ -13,7 +13,6 @@
     "babelify": "^8.0.0",
     "browser-sync": "^2.23.6",
     "browserify": "^15.2.0",
-    "node-sass": "^4.13.1",
     "del": "^3.0.0",
     "gulp": "4.0.0",
     "gulp-autoprefixer": "^6.0.0",
@@ -40,7 +39,15 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "formidable": "^1.2.2",
     "jquery": "^3.3.1",
-    "normalize.css": "^7.0.0"
+    "lowdb": "^1.0.0",
+    "normalize.css": "^7.0.0",
+    "uuid": "^8.2.0"
   }
 }
